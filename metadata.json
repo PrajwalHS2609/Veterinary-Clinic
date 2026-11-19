@@ -1,0 +1,6 @@
+{
+  "name": "Vespera Veterinary Clinic",
+  "description": "Modern companion animal veterinary hospital offering compassionate preventive care, diagnostics, dentistry, surgery, and personalized lifelong pet health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
